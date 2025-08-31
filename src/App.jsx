@@ -1,8 +1,8 @@
 
 import './App.css'
-import Contact from '../componant/contatct/Contact.jsx'
-import Home from '../componant/home/Home.jsx'
-import About from '../componant/About/About.jsx'
+import Contact from '../componant/contatct/Contact'
+import Home from '../componant/home/Home'
+import About from '../componant/About/About'
 
 function App() {
 
